@@ -28,7 +28,8 @@
 
 (c) Make sure you set **alcid=3** in boot-args, if you have to sound input/output (will fix applealc)
 
-Generate a new serial
+(d) Generate a new serial
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 **Minor issueS**
